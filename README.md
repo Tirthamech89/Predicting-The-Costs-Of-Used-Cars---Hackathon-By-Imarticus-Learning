@@ -37,5 +37,11 @@ Price: The price of the used car in INR Lakhs.
 
 For More Details:https://www.machinehack.com/course/predicting-the-costs-of-used-cars-hackathon-by-imarticus/
 
+# Score Calculation:
+
+Submissions are evaluated on Root-Mean-Squared-Log-Error (RMSLE) error = RMSLE (error)
+
+Score = 1 – error
+
 # Score: 0.947243
 # LeaderBoard Rank: 6
