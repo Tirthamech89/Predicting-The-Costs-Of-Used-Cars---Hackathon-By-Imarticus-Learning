@@ -1,4 +1,4 @@
-# Predicting-The-Costs-Of-Used-Cars---Hackathon-By-Imarticus-Learning
+# Predicting The Costs Of Used-Cars Hackathon -By Imarticus Learning
 
 Driverless cars are getting closer to reality and at a faster pace than ever. But it is still a bit far fetched dream to have one in your garage. For the time being, there are still a lot of combustion and hybrid cars that roar around the road, for some it chills. Though the overall data on sales of automobiles shows a huge drop in sales in the last couple of years, cars are still a big attraction for many. Cars are more than just a utility for many. They are often the pride and status of the family. We all have different tastes when it comes to owning a car or at least when thinking of owning one.
 
@@ -34,6 +34,8 @@ Seats: The number of seats in the car.
 New_Price: The price of a new car of the same model.
 
 Price: The price of the used car in INR Lakhs.
+
+For More Details:https://www.machinehack.com/course/predicting-the-costs-of-used-cars-hackathon-by-imarticus/
 
 # Score: 0.947243
 # LeaderBoard Rank: 6
